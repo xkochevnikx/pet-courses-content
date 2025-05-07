@@ -1,0 +1,3 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/xkochevnikx/pet-courses-content-schema/refs/heads/master/schemas/manifest.schema.json
+courses:
+  - "test-course-1"
